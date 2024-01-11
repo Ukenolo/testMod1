@@ -28,6 +28,7 @@
 			"May upgrade to [Spearman] through ruins-like effects",
 			"Free [ReWarrior] appears <upon being defeated>",
 			"Free [ReCore] appears <upon being defeated>",
+			"Can carry [1] [ReCore] units"
 		],
 		"attackSound": "nonmetalhit",
         	"civilopediaText": [
