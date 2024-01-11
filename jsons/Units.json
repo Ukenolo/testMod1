@@ -26,11 +26,25 @@
 		"upgradesTo": "Swordsman",
 		"uniques" : [
 			"May upgrade to [Spearman] through ruins-like effects",
-			"Free [ReWarrior] appears <upon being defeated>"
+			"Free [ReWarrior] appears <upon being defeated>",
+			"Free [ReCore] appears <upon being defeated>",
 		],
 		"attackSound": "nonmetalhit",
         	"civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
+		]
+	}
+	{
+		"name": "ReCore",
+		"unitType": "Fighter",
+		"uniqueTo": "Aliens",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : [
+			"May upgrade to [Spearman] through ruins-like effects"
 		]
 	}
 ]
