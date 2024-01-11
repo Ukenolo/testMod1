@@ -14,4 +14,23 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
+	{
+		"name": "ReWarrior",
+		"unitType": "Sword",
+		"uniqueTo": "Aliens",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : [
+			"May upgrade to [Spearman] through ruins-like effects",
+			"Free [ReWarrior] appears <upon being defeated>"
+		],
+		"attackSound": "nonmetalhit",
+        	"civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	}
 ]
