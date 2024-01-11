@@ -28,7 +28,7 @@
 			"May upgrade to [Spearman] through ruins-like effects",
 			"Free [ReWarrior] appears <upon being defeated>",
 			"Free [ReCore] appears <upon being defeated>",
-			"Can carry [1] [ReCore] units"
+			"Can carry [1] [ReHeart] units"
 		],
 		"attackSound": "nonmetalhit",
         	"civilopediaText": [
@@ -36,16 +36,18 @@
 		]
 	}
 	{
-		"name": "ReCore",
+		"name": "ReHeart",
 		"unitType": "Fighter",
 		"uniqueTo": "Aliens",
-		"movement": 2,
-		"strength": 8,
+		"movement": 1,
+		"strength": 1,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques" : [
-			"May upgrade to [Spearman] through ruins-like effects"
+			"May upgrade to [Spearman] through ruins-like effects",
+			"Free [ReWarrior] appears <upon ending a turn in a [City center] tile>",
+			"This Unit takes [100] damage <upon ending a turn in a [City center] tile>",
 		]
 	}
 ]
