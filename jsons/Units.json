@@ -49,6 +49,7 @@
 			"May upgrade to [Spearman] through ruins-like effects",
 			"This Unit takes [100] damage <upon ending a turn in a [City center] tile>",
 			"Free [ReWarrior] appears <upon being defeated>",
+			"Cannot attack"
 		]
 	}
 ]
