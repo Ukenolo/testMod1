@@ -2,6 +2,6 @@
   {
     "name": "Sword",
     "movementType": "Land",
-    "unique": "Can carry [1] [Sword] units"
+    "unique": "Can carry [1] [Civilian] units"
   }
 ]
