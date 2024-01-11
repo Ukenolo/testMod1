@@ -40,7 +40,6 @@
 		"unitType": "Fighter",
 		"uniqueTo": "Aliens",
 		"movement": 1,
-		"range": 0,
 		"strength": 0,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
