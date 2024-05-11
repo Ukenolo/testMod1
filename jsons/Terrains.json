@@ -185,37 +185,5 @@
             {"text": "Rivers", "link":"Terrain/River"},
             {"text": "Oasis", "link":"Terrain/Oasis"}
 		]
-	}/*,
-	{
-		"name": "",
-		"type": "",
-		"food": ,
-		"gold": ,
-		"production": ,
-		"movementCost": ,
-		"defenceBonus": 0.00,
-		"RGB": [, , ],
-		"uniques": [
-			""
-		],
-		"civilopediaText": [
-			{"text": ""}
-		]
-	},
-	{
-		"name": "",
-		"type": "",
-		"food": ,
-		"gold": ,
-		"production": ,
-		"movementCost": ,
-		"defenceBonus": 0.00,
-		"RGB": [, , ],
-		"uniques": [
-			""
-		],
-		"civilopediaText": [
-			{"text": ""}
-		]
-	},*/
+	}
 ]
