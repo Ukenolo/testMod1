@@ -1,12 +1,12 @@
 
 Tileset.png
-size: 64, 28
+size: 65, 28
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Caramel
   rotate: false
-  xy: 32, 0
+  xy: 33, 0
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
