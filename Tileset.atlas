@@ -11,3 +11,10 @@ TileSets/FantasyHex/Tiles/Fire land
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Caramel
+  rotate: false
+  xy: 32, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
