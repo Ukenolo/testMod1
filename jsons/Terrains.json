@@ -132,7 +132,7 @@
 			"Occurs at temperature between [0.4] and [1] and humidity between [0.1] and [0.2]",
 			"Occurs at temperature between [0.7] and [1] and humidity between [0.2] and [0.3]",
 			//"+null to Fertility for Map Generation",
-			"A Region is formed with at least [7]% [Fire Land] tiles, with priority [1]",
+			"A Region is formed with at least [7]% [Fire land] tiles, with priority [1]",
 			"Considered [Undesirable] when determining start locations",
 			//"Every null tiles with this terrain will receive a major deposit of a strategic resource."
 		],
